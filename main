@@ -1,0 +1,12 @@
+from random import *
+
+letters = ["x","y","a","b","c","d","n","m","k","z"]
+numbers = []
+x = randint(-10,10)
+print(x)
+
+def createBrackets:
+    pass
+        
+        
+    
